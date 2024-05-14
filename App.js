@@ -32,7 +32,7 @@ const GRAVITY = 1000;
 const JUMP_FORCE = -500;
 
 const pipeWidth = 104;
-const pipeHeight = 640;
+const pipeHeight = 600;
 
 const App = () => {
   const { width, height } = useWindowDimensions();
