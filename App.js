@@ -60,7 +60,7 @@ const App = () => {
   });
 
   const obstacles = useDerivedValue(() => [
-    // tuyaux du bas
+    // bottom pipe
     {
       x: pipeX.value,
       y: bottomPipeY.value,
